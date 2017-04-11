@@ -10,7 +10,7 @@
     <Static>
       <Workspace>
         <ColumnWidths>
-          <Column0>420</Column0>
+          <Column0>468</Column0>
           <Column1>27</Column1>
           <Column2>27</Column2>
           <Column3>27</Column3>
@@ -27,16 +27,11 @@
       <Wnd1>
         <Tabs>
           <Tab>
-            <Identity>TabID-16191-6595</Identity>
+            <Identity>TabID-2724-13446</Identity>
             <TabName>Workspace</TabName>
             <Factory>Workspace</Factory>
             <Session>
-              <NodeDict>
-                <ExpandedNode>SPI_Standard</ExpandedNode>
-                <ExpandedNode>SPI_Standard/Drivers</ExpandedNode>
-                <ExpandedNode>SPI_Standard/Drivers/STM32F4xx_HAL_Driver</ExpandedNode>
-                <ExpandedNode>SPI_Standard/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_spi.c</ExpandedNode>
-              </NodeDict>
+              <NodeDict/>
             </Session>
           </Tab>
         </Tabs>
@@ -45,7 +40,7 @@
       <Wnd0>
         <Tabs>
           <Tab>
-            <Identity>TabID-15627-8039</Identity>
+            <Identity>TabID-29742-13554</Identity>
             <TabName>Build</TabName>
             <Factory>Build</Factory>
             <Session/>
@@ -75,9 +70,9 @@
       <Top>
         <Row0>
           <Sizes>
-            <Toolbar-05261298>
+            <Toolbar-04d72d38>
               <key>iaridepm.enu1</key>
-            </Toolbar-05261298>
+            </Toolbar-04d72d38>
           </Sizes>
         </Row0>
       </Top>
@@ -89,14 +84,14 @@
                 <Top>-2</Top>
                 <Left>-2</Left>
                 <Bottom>754</Bottom>
-                <Right>511</Right>
+                <Right>542</Right>
                 <x>-2</x>
                 <y>-2</y>
                 <xscreen>200</xscreen>
                 <yscreen>200</yscreen>
                 <sizeHorzCX>104167</sizeHorzCX>
                 <sizeHorzCY>200602</sizeHorzCY>
-                <sizeVertCX>267188</sizeVertCX>
+                <sizeVertCX>283333</sizeVertCX>
                 <sizeVertCY>758275</sizeVertCY>
               </Rect>
             </Wnd1>

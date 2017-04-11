@@ -1,16 +1,16 @@
-"D:\Autosar\New_SPI\SPI_Standard\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_spi.c"
+"D:\Autosar\Git_SPI\SPI_Standard\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_spi.c"
 -std=c99
 -ferror-limit=100
 -I
-D:\Autosar\New_SPI\SPI_Standard\EWARM/../Inc
+D:\Autosar\Git_SPI\SPI_Standard\EWARM/../Inc
 -I
-D:\Autosar\New_SPI\SPI_Standard\EWARM/../Drivers/STM32F4xx_HAL_Driver/Inc
+D:\Autosar\Git_SPI\SPI_Standard\EWARM/../Drivers/STM32F4xx_HAL_Driver/Inc
 -I
-D:\Autosar\New_SPI\SPI_Standard\EWARM/../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy
+D:\Autosar\Git_SPI\SPI_Standard\EWARM/../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy
 -I
-D:\Autosar\New_SPI\SPI_Standard\EWARM/../Drivers/CMSIS/Device/ST/STM32F4xx/Include
+D:\Autosar\Git_SPI\SPI_Standard\EWARM/../Drivers/CMSIS/Device/ST/STM32F4xx/Include
 -I
-D:\Autosar\New_SPI\SPI_Standard\EWARM/../Drivers/CMSIS/Include
+D:\Autosar\Git_SPI\SPI_Standard\EWARM/../Drivers/CMSIS/Include
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 6.5\arm\CMSIS\Include
 -I
@@ -18,15 +18,15 @@ C:\Program Files (x86)\IAR Systems\Embedded Workbench 6.5\arm\inc
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 6.5\arm\inc\c
 -I
-D:\Autosar\New_SPI\SPI_Standard\Inc
+D:\Autosar\Git_SPI\SPI_Standard\Inc
 -I
-D:\Autosar\New_SPI\SPI_Standard\Drivers\STM32F4xx_HAL_Driver\Inc
+D:\Autosar\Git_SPI\SPI_Standard\Drivers\STM32F4xx_HAL_Driver\Inc
 -I
-D:\Autosar\New_SPI\SPI_Standard\Drivers\STM32F4xx_HAL_Driver\Inc\Legacy
+D:\Autosar\Git_SPI\SPI_Standard\Drivers\STM32F4xx_HAL_Driver\Inc\Legacy
 -I
-D:\Autosar\New_SPI\SPI_Standard\Drivers\CMSIS\Device\ST\STM32F4xx\Include
+D:\Autosar\Git_SPI\SPI_Standard\Drivers\CMSIS\Device\ST\STM32F4xx\Include
 -I
-D:\Autosar\New_SPI\SPI_Standard\Drivers\CMSIS\Include
+D:\Autosar\Git_SPI\SPI_Standard\Drivers\CMSIS\Include
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 6.5\arm\CMSIS\Include
 -DUSE_HAL_DRIVER=1
@@ -236,8 +236,8 @@ C:\Program Files (x86)\IAR Systems\Embedded Workbench 6.5\arm\CMSIS\Include
 -D__HAS_LOCATED_DECLARATION__=1
 -D__HAS_LOCATED_WITH_INIT__=1
 -D__IAR_COMPILERBASE__=593411
--D__DATE__="Apr  9 2017"
--D__TIME__="14:03:20"
+-D__DATE__="Apr 11 2017"
+-D__TIME__="22:02:00"
 -D__STDC__=1
 -D__STDC_VERSION__=199901L
 -D__STDC_HOSTED__=1
